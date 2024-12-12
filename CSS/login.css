@@ -58,3 +58,7 @@ button {
 .confirm:hover {
     background-color: #B692C2;
 }
+
+.links {
+    text-decoration: none;
+}
