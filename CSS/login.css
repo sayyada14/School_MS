@@ -61,4 +61,18 @@ button {
 
 .links {
     text-decoration: none;
+    width: auto;
+}
+
+.buttons {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+}
+
+.create {
+    color: rgb(0, 89, 255);
+    text-decoration: underline;
+    cursor: pointer;
+    margin: 0px;
 }
