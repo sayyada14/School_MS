@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 90px;
+    z-index: 100;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: #694F8E;
+    margin-bottom: 50px;
+
+}
+
+.schoo_name{
+    flex: 2;
+}
+
+.name{
+    color:black ;
+    text-align: left;
+    font-size: 60px;
+    margin: 0;
+    font-family: "Josefin Sans";
+    font-weight: 600;
+
+}
